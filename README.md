@@ -10,7 +10,7 @@
 - '**' | Exponentiation|  	x ** y	
 - '//' | Floor division| 	x // y
 
-<img src="">
+<img src="https://github.com/pablinesamara/OperadoresAritim-ticosemPython/blob/main/Python.png">
   
 ##[Precedentes](https://www.w3schools.com/python/python_operators.asp)
 
